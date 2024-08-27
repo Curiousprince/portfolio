@@ -318,6 +318,7 @@ section{
 }
 .achivements{
   background-color: var(--second-bg-color);
+  align-items: center;
 }
 .achivements-box{
   display: grid;
